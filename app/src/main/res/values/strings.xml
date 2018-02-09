@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TransformationLiveData</string>
+    <string name="title_activity_user_detail">UserDetailActivity</string>
+</resources>
